@@ -1,0 +1,32 @@
+.rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .container{
+
+    background-color: aqua;
+   
+   
+   }
+   .container-fluid{
+     /* background-color: bisque;
+      /*width: 400px;*/
+      /*/height: 150px;*/
+}
+.row{
+    background-color: yellow;
+    margin: 5px;
+}
+.col{
+    background-color: violet;
+    margin: 5px;
+}
+.modal{
+    background-color: tomato;
+}
